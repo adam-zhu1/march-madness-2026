@@ -90,3 +90,29 @@ Use this command in the terminal:
 
 ```bash
 python3 -m streamlit run app.py
+```
+
+March Madness 2026 App/
+├── app.py
+├── requirements.txt
+├── data/
+│   ├── best_logreg_model.joblib
+│   ├── best_logreg_coefficients.csv
+│   ├── historical_matchups.csv
+│   ├── round1_matchups_2026.csv
+│   ├── round1_predictions_best.csv
+│   ├── team_rankings_2026.csv
+│   ├── teams_2026_clean.csv
+│   └── ... other raw CSV files
+├── scripts/
+│   ├── build_2026_table.py
+│   ├── build_historical_matchups.py
+│   ├── check_data.py
+│   ├── inspect_team_results.py
+│   ├── predict_round1_best.py
+│   ├── predict_round1_from_csv.py
+│   ├── predict_round1_logreg.py
+│   ├── rank_teams.py
+│   ├── train_best_model.py
+│   └── train_logreg_model.py
+└── README.md
