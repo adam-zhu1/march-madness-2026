@@ -1,0 +1,29 @@
+game_id,team1,seed1,team2,seed2,team1_win_prob,team2_win_prob,recommended_pick,pick_confidence
+1,Ohio St.,8,TCU,9,0.9384,0.0616,Ohio St.,0.9384
+2,Nebraska,4,Troy,13,1.0,0.0,Nebraska,1.0
+3,Louisville,6,South Florida,11,0.9533,0.0467,Louisville,0.9533
+4,Wisconsin,5,High Point,12,0.9993,0.0007,Wisconsin,0.9993
+5,Duke,1,Siena,16,1.0,0.0,Duke,1.0
+6,Vanderbilt,5,McNeese St.,12,0.9986,0.0014,Vanderbilt,0.9986
+7,Michigan St.,3,North Dakota St.,14,1.0,0.0,Michigan St.,1.0
+8,Arkansas,4,Hawaii,13,1.0,0.0,Arkansas,1.0
+9,North Carolina,6,VCU,11,0.5502,0.4498,North Carolina,0.5502
+12,Saint Mary's,7,Texas A&M,10,0.8593,0.1407,Saint Mary's,0.8593
+13,Illinois,3,Penn,14,1.0,0.0,Illinois,1.0
+14,Georgia,8,Saint Louis,9,0.7857,0.2143,Georgia,0.7857
+15,Gonzaga,3,Kennesaw St.,14,1.0,0.0,Gonzaga,1.0
+16,Houston,2,Idaho,15,1.0,0.0,Houston,1.0
+17,Kentucky,7,Santa Clara,10,0.9199,0.0801,Kentucky,0.9199
+18,Texas Tech,5,Akron,12,0.9835,0.0165,Texas Tech,0.9835
+19,Arizona,1,LIU Brooklyn,16,1.0,0.0,Arizona,1.0
+20,Virginia,3,Wright St.,14,1.0,0.0,Virginia,1.0
+21,Iowa St.,2,Tennessee St.,15,1.0,0.0,Iowa St.,1.0
+22,Alabama,4,Hofstra,13,0.9998,0.0002,Alabama,0.9998
+23,Villanova,8,Utah St.,9,0.2635,0.7365,Utah St.,0.7365
+25,Clemson,8,Iowa,9,0.1869,0.8131,Iowa,0.8131
+26,St. John's,5,Northern Iowa,12,0.9998,0.0002,St. John's,0.9998
+27,UCLA,7,UCF,10,0.9899,0.0101,UCLA,0.9899
+28,Purdue,2,Queens,15,1.0,0.0,Purdue,1.0
+30,Kansas,4,Cal Baptist,13,1.0,0.0,Kansas,1.0
+31,Connecticut,2,Furman,15,1.0,0.0,Connecticut,1.0
+32,Miami FL,7,Missouri,10,0.9217,0.0783,Miami FL,0.9217
