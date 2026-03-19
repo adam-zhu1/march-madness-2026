@@ -44,12 +44,12 @@ The project started with a hand-built weighted score model, then moved to a stro
 
 ### Current workflow
 
-1. Build a clean 2026 tournament team table
-2. Build historical tournament matchup rows
-3. Compute feature differences between two teams
-4. Train a logistic regression model on past tournaments
-5. Predict 2026 Round of 64 games
-6. Serve everything in a local Streamlit app
+1. Build a clean 2026 tournament team table  
+2. Build historical tournament matchup rows  
+3. Compute feature differences between two teams  
+4. Train a logistic regression model on past tournaments  
+5. Predict 2026 Round of 64 games  
+6. Serve everything in a local Streamlit app  
 
 ### Features used in the model
 
@@ -84,30 +84,9 @@ This model is used for the current app predictions.
 
 ---
 
-## 🗂️ Project Structure
+## ▶️ Running the App
 
-```text
-March Madness 2026 App/
-├── app.py
-├── requirements.txt
-├── data/
-│   ├── best_logreg_model.joblib
-│   ├── best_logreg_coefficients.csv
-│   ├── historical_matchups.csv
-│   ├── round1_matchups_2026.csv
-│   ├── round1_predictions_best.csv
-│   ├── team_rankings_2026.csv
-│   ├── teams_2026_clean.csv
-│   └── ... other raw CSV files
-├── scripts/
-│   ├── build_2026_table.py
-│   ├── build_historical_matchups.py
-│   ├── check_data.py
-│   ├── inspect_team_results.py
-│   ├── predict_round1_best.py
-│   ├── predict_round1_from_csv.py
-│   ├── predict_round1_logreg.py
-│   ├── rank_teams.py
-│   ├── train_best_model.py
-│   └── train_logreg_model.py
-└── README.md
+Use this command in the terminal:
+
+```bash
+python3 -m streamlit run app.py
